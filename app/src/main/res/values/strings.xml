@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MADT_LAB_5</string>
+    <string name="app_name">Currency</string>
+    <string name="loadData">Loading data...\n</string>
 </resources>
